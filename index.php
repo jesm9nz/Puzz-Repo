@@ -13,7 +13,8 @@
 			<p>core-menu</p>
 		</div>
 		<div id="core-body">
-			<p>core-body</p>
+			<h2>Puzzfeed</h2>
+			<p>Puzz is not a PIM or a copywriting platform. It is for telling stories about your products and solutions using the data components you have.</p>
 		</div>
 	</div>
 	<div id="footer">
