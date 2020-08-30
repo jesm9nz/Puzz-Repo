@@ -1,5 +1,5 @@
 <!-- PUZZ v0.0.1 !-->
-<html>
+<!DOCTYPE html lang="en">
 <head>
 	<title>Puzz Storywriter v0.0.1</title>
 	<link rel="stylesheet" type="text/css" href="style/css_default.css">
@@ -13,7 +13,8 @@
 			<p>core-menu</p>
 		</div>
 		<div id="core-body">
-			<p>core-body</p>
+			<h2>Puzzfeed</h2>
+			<p>Puzz is not a PIM or a copywriting platform. It is for telling stories about your products and solutions using the data components you have.</p>
 		</div>
 	</div>
 	<div id="footer">
