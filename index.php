@@ -1,5 +1,5 @@
 <!-- PUZZ v0.0.1 !-->
-<html>
+<!DOCTYPE html lang="en">
 <head>
 	<title>Puzz Storywriter v0.0.1</title>
 	<link rel="stylesheet" type="text/css" href="style/css_default.css">
