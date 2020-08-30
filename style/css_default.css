@@ -1,3 +1,14 @@
+#core {
+  
+}
+#core-menu {
+  width: 20%;
+  float: left;
+}
+#core-body {
+  width: 80%;
+  float: right;
+}
 #footer {
   background-color: #EEEEEE;
 }
