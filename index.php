@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div id="header">
-		Puzz
+		<span id="puzz-logo">Puzz</span>
 		<div class="dropdown">
 		  <button class="dropbtn">Product Management</button>
 		  <div class="dropdown-content">
