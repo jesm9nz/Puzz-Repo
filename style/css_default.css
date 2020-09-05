@@ -10,12 +10,16 @@ body {
 #header {
   width: 100%;
   height: 7%;
-  font-family: PoetsenOne;
-  font-size: 32px;
   color: #FFFFFF;
   background-color: rgba(142, 87, 141, 0.9);
   margin: 0px;
   padding-left: 10%;
+}
+#puzz-logo {
+  font-family: PoetsenOne;
+  font-size: 32px;
+  margin: 0px;
+  padding-right: 5%;
 }
 #core {
   
