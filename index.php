@@ -8,11 +8,20 @@
 	<div id="header">
 		Puzz
 		<div class="dropdown">
-		  <button class="dropbtn">Dropdown</button>
+		  <button class="dropbtn">Product Management</button>
 		  <div class="dropdown-content">
-		    <a href="#">Link 1</a>
-		    <a href="#">Link 2</a>
-		    <a href="#">Link 3</a>
+		    <a href="#">Add Product</a>
+		    <a href="#">Product Search</a>
+		    <a href="#">Import Products</a>
+		    <a href="#">Export Products</a>
+		  </div>
+		</div>
+		<div class="dropdown">
+		  <button class="dropbtn">Enrichment</button>
+		  <div class="dropdown-content">
+		    <a href="#">Product Profiles</a>
+		    <a href="#">Feed Maintenance</a>
+		    <a href="#">Data Marketplace</a>
 		  </div>
 		</div>
 	</div>
