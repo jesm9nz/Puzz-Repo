@@ -22,7 +22,8 @@ body {
   padding-right: 5%;
 }
 #core {
-  
+  height: 86%;
+  margin: 0px;
 }
 #core-menu {
   width: 20%;
