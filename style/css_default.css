@@ -26,6 +26,11 @@ h1 {
   margin: 0px;
   padding-right: 5%;
 }
+#logo-colour {
+  font-family: PoetsenOne;
+  font-size: 48px;
+  color: rgba(142, 87, 141);
+}
 #core {
   height: 86%;
   width: 80%;
