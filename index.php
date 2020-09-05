@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div id="header">
-		<h1>Puzz Storywriter v0.0.1</h1>	
+		Puzz	
 	</div>
 	<div id="core">
 		<div id="core-menu">
