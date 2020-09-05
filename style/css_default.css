@@ -2,7 +2,12 @@
   font-family: PoetsenOne;
   src: url(PoetsenOne-Regular.ttf);
 }
+body {
+  padding: 0px; 
+}
 #header {
+  width: 100%;
+  height: 50px;
   font-family: PoetsenOne; 
   background-color: rgba(142, 87, 141, 0.9);
 }
