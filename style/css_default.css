@@ -9,6 +9,11 @@ body {
   background-image: url(pexels-aleksejs-bergmanis-681335.jpg);
   background-position: left top;
 }
+h1 {
+  font-family: PoetsenOne;
+  font-size: 44px;
+  color: #FFFFFF;
+}
 #header {
   width: 100%;
   height: 7%;
@@ -40,6 +45,7 @@ body {
 }
 #getstarted {
   background-color: rgba(42, 41, 43,0.4);
+  padding: 20px;
 }
 #footer {
   background-color: #EEEEEE;
