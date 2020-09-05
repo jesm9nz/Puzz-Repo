@@ -10,6 +10,8 @@
 	</style>
 </head>
 <body>
-	Puzz
+	<div id="login">
+		login
+	</div>
 </body>
 </html>
