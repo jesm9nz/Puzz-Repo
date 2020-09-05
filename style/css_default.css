@@ -6,7 +6,6 @@ body {
   padding: 0px;
   margin: 0px;
   font-family: Arial, San-serif;
-  background-position: center;
 }
 h1 {
   font-family: PoetsenOne;
@@ -38,8 +37,11 @@ h1 {
   margin-top: 10px;
   padding: 20px;
 }
-#footer {
-  background-color: #EEEEEE;
+#login {
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 30%;
+  height: 50%;
+  margin: 25% 35% 25% 35%;
 }
 /* Dropdown Button */
 .dropbtn {
