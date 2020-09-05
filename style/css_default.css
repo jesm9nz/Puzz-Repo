@@ -38,6 +38,9 @@ body {
   width: 80%;
   float: right;
 }
+#getstarted {
+  background-color: rgba(42, 41, 43,0.4);
+}
 #footer {
   background-color: #EEEEEE;
 }
