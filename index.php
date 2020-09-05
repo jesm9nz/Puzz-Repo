@@ -49,9 +49,5 @@
 			</ul>
 			</div>
 	</div>
-	<div id="footer">
-		<p>&copy; 2020 Puzz Storywriter v0.0.1</p>
-		<p>if this is what it feels to love, then I can feel it</p>
-	</div>
 </body>
 </html>
