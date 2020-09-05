@@ -42,10 +42,11 @@
 	</div>
 	<div id="core">
 			<div id="getstarted">
-			<h1>This is your canvas</h1>
-			<p>You hold the puzzle pieces, now it is time to get started!</p>
+			<h1>You have the pieces, now it is time to fill the canvas!</h1>
+			<p>To get started with the Puzz platform, you will need to do a few things.</p>
 			<ul>
-				<li>Start defining your Company Profile</li>	
+				<li>Start defining your Company Profile. This sets the parameters of your trading brand to ensure that all content that comes out of this tool is in the line with your expectations.</li>
+				<li>Start defining your Product Profile. If you manufacture your own products and want to control the story you write, you should start to come up with profiles to map the data you have (or want to have) in order to build your stories.</li>
 			</ul>
 			</div>
 	</div>
