@@ -41,17 +41,12 @@
 		</div>
 	</div>
 	<div id="core">
-		<div id="core-menu">
-			<p>core-menu</p>
-		</div>
-		<div id="core-body">
 			<div id="getstarted">
 			<h1>Bring the pieces together of the story you want to tell</h1>
 			<p>Start setting up your profiles and products to begin telling a great stories.</p>
 			<h1>Make the pieces fit... the way you want</h1>
 			<p>Bring in your incomplete products and pieces of data to generate something personal.</p>
 			</div>
-		</div>
 	</div>
 	<div id="footer">
 		<p>&copy; 2020 Puzz Storywriter v0.0.1</p>
