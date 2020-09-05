@@ -2,6 +2,9 @@
   font-family: PoetsenOne;
   src: url(PoetsenOne-Regular.ttf);
 }
+#header {
+  font-family: PoetsenOne; 
+}
 #core {
   
 }
