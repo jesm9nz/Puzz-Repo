@@ -20,7 +20,7 @@ h1 {
   color: #FFFFFF;
   background-color: rgba(142, 87, 141, 0.9);
   margin: 0px;
-  padding: 0px;
+  padding: 0% 10% 0% 10%;
 }
 #puzz-logo {
   font-family: PoetsenOne;
@@ -30,7 +30,7 @@ h1 {
 }
 #core {
   height: 86%;
-  padding: 50px;
+  padding: 0% 10% 0% 10%;
   color: #FFFFFF;
 }
 #getstarted {
