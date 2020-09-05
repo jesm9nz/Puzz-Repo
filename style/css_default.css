@@ -23,6 +23,7 @@ body {
 }
 #core {
   height: 86%;
+  padding-left: 10%;
   margin: 0px;
 }
 #core-menu {
