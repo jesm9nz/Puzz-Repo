@@ -11,7 +11,11 @@
 </head>
 <body>
 	<div id="login">
-		login
+		<span id="logo-colour">Puzz</span>
+		<p>E-Mail Address:</p>
+		<p>Password:</p>
+		<p>Forgotten Password</p>
+		<p>v0.0.01 | &copy; 2020 Puzz</p>
 	</div>
 </body>
 </html>
