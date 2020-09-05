@@ -24,6 +24,22 @@
 		    <a href="#">Data Marketplace</a>
 		  </div>
 		</div>
+		<div class="dropdown">
+		  <button class="dropbtn">Storytelling</button>
+		  <div class="dropdown-content">
+		    <a href="#">Story Profiles</a>
+		    <a href="#">Feed Maintenance</a>
+		    <a href="#">Data Marketplace</a>
+		  </div>
+		</div>
+		<div class="dropdown">
+		  <button class="dropbtn">Administration</button>
+		  <div class="dropdown-content">
+		    <a href="#">User Management</a>
+		    <a href="#">Company Management</a>
+		    <a href="#">Support</a>
+		  </div>
+		</div>
 	</div>
 	<div id="core">
 		<div id="core-menu">
