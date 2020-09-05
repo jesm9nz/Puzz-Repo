@@ -3,7 +3,7 @@
 <head>
 	<style>
 		body {
-			background-image: url("pexels-sharon-snider-4000309.jpg");	
+			background-image: url("style/pexels-sharon-snider-4000309.jpg");	
 		}
 	</style>
 	<title>Puzz Storywriter v0.0.1</title>
