@@ -15,7 +15,7 @@ h1 {
   color: #FFFFFF;
 }
 #header {
-  width: 100%;
+  width: 80%;
   height: 7%;
   color: #FFFFFF;
   background-color: rgba(142, 87, 141, 0.9);
@@ -30,6 +30,7 @@ h1 {
 }
 #core {
   height: 86%;
+  width: 80%;
   padding: 0% 10% 0% 10%;
   color: #FFFFFF;
 }
