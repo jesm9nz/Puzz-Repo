@@ -31,17 +31,9 @@ h1 {
 #core {
   height: 86%;
   width: 80%;
-  padding: 0px;
+  padding: 100px;
   margin-left: 10%;
   color: #FFFFFF;
-}
-#core-menu {
-  width: 20%;
-  float: left;
-}
-#core-body {
-  width: 80%;
-  float: right;
 }
 #getstarted {
   background-color: rgba(42, 41, 43,0.8);
